@@ -1,0 +1,14 @@
+# Exclude configuration files
+config.py
+smtp_config.py
+
+# Exclude fetched and classified email files
+fetched_emails.txt
+selected_emails.txt
+not_selected_emails.txt
+uncategorized_emails.txt
+*.csv
+
+# Exclude system files
+.DS_Store
+
