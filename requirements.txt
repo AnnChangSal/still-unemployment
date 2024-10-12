@@ -1,9 +1,0 @@
-imaplib2
-pandas
-nltk
-spacy
-scikit-learn
-beautifulsoup4
-tqdm
-python-dotenv
-
