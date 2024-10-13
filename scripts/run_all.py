@@ -1,5 +1,3 @@
-# scripts/run_all.py
-
 import subprocess
 import time
 import sys
