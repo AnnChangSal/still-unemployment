@@ -1,5 +1,3 @@
-# scripts/convert_to_csv.py
-
 import os
 import sys
 import logging
