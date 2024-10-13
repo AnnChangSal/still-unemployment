@@ -6,6 +6,10 @@
 ![GitHub Forks](https://img.shields.io/github/forks/AnnChangSal/still-unemployment)
 ![GitHub Stars](https://img.shields.io/github/stars/AnnChangSal/still-unemployment)
 
+
+**Complete the program that categorizes the designated words and organizes them into charts**
+
+
 ## Table of Contents
 
 - [About The Project](#about-the-project)
@@ -23,8 +27,6 @@
   
 
 ## About The Project
-
-**Complete the program that categorizes the designated words and organizes them into charts**
 
 
 ![Project Screenshot](assets/still-unemployment-run.png)
