@@ -24,6 +24,9 @@
 
 ## About The Project
 
+**Complete the program that categorizes the designated words and organizes them into charts**
+
+
 ![Project Screenshot](assets/still-unemployment-run.png)
 ![Project Screenshot](assets/selected-csv.png)
 ![Project Screenshot](assets/not-selected-csv.png)
