@@ -1,5 +1,3 @@
-# scripts/classify_emails.py
-
 import os
 import sys
 import logging
