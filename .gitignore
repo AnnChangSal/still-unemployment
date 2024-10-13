@@ -1,14 +1,22 @@
-# Exclude configuration files
-config.py
-smtp_config.py
+# Environment Variables
+.env
 
-# Exclude fetched and classified email files
-fetched_emails.txt
-selected_emails.txt
-not_selected_emails.txt
-uncategorized_emails.txt
-*.csv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Exclude system files
-.DS_Store
+# Virtual environment
+venv/
+
+# Logs
+logs/*.log
+
+# Data files
+data/*.txt
+data/*.csv
+
+# IDE-specific files
+.vscode/
+.idea/
 
