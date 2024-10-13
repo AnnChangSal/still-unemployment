@@ -25,7 +25,7 @@
 ## About The Project
 
 ![Project Screenshot](assets/still-unemployment-run.png)
-![Project Screenshot](assets/selected-csv)
+![Project Screenshot](assets/selected-csv.png)
 ![Project Screenshot](assets/not-selected-csv.png)
 ![Project Screenshot](assets/uncategorized-csv.png)
 
