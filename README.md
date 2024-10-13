@@ -24,7 +24,10 @@
 
 ## About The Project
 
-![Project Screenshot](assets/screenshot.png)
+![Project Screenshot](assets/still-unemployment-run.png)
+![Project Screenshot](assets/selected-csv)
+![Project Screenshot](assets/not-selected-csv.png)
+![Project Screenshot](assets/uncategorized-csv.png)
 
 **Still Unemployment?** is a Python-based project designed to help individuals manage and analyze their job application emails. By leveraging Gmail's IMAP protocol, the application fetches relevant emails, classifies them based on predefined phrases, and organizes them for easy review. This tool aims to streamline the job search process, allowing users to focus on responding to potential opportunities while efficiently handling rejection notices.
 
