@@ -20,3 +20,5 @@ data/*.csv
 .vscode/
 .idea/
 
+.md
+
