@@ -6,6 +6,45 @@
 ![GitHub Forks](https://img.shields.io/github/forks/AnnChangSal/still-unemployment)
 ![GitHub Stars](https://img.shields.io/github/stars/AnnChangSal/still-unemployment)
 
+[NEW VERSION]
+**NOW It's Chorme Extension!**
+## Features
+
+- **Automated Email Categorization:**  
+  The extension scans your Gmail messages and applies labels based on the following criteria:
+  - **Successful:** Emails containing "congratulations" or "excited to announce"
+  - **Unsuccessful:** Emails containing "regret to" or "other candidates"
+  - **Submitted:** Emails containing "submitted"
+- **Seamless Gmail Integration:**  
+  Uses the Gmail API to fetch messages, create labels, and apply them to your emails.
+- **Easy to Use:**  
+  Load the extension into Chrome, click the **Process All Emails** button, and let the extension do the work.
+
+![Project Pic](assets/new_using.png)
+
+**When start using extenstion**
+
+![Project Pic](assets/new_using2.png)
+
+**Labeled emails**
+
+![Project Pic](assets/new_using3.png)
+
+**Check it's actually "submitted" emails**
+
+![Project Pic](assets/new_using4.png)
+
+**Check it's actually "unsuccessful" emails :(**
+
+
+
+
+
+
+
+
+[OLD VERSION]
+--------------------------------------------------------------------------------------------
 ## Table of Contents
 
 - [About The Project](#about-the-project)
