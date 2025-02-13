@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Still Unemployment Email Classifier",
+    "version": "1.0",
+    "description": "Classifies your Gmail messages into selected categories using Gmail API.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": [
+      "identity",
+      "storage"
+    ],
+    "oauth2": {
+      "client_id": "595220677672-89uvt71pq7e6pt274bmr46qhci9tlkok.apps.googleusercontent.com",
+      "scopes": [
+        "https://www.googleapis.com/auth/gmail.modify",
+        "https://www.googleapis.com/auth/gmail.readonly"
+      ]
+    }
+  }
+  
